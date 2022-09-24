@@ -10,7 +10,7 @@ export default function App() {
     </View>
   );
 }
-
+//ye boi
 
 const styles = StyleSheet.create({
   container: {
